@@ -27,22 +27,22 @@
       },
       {
         "id": 2,
-        "name": "AMD Radeon RX 5500 XT",
-        "web": "https://www.bestbuy.com/site/msi-amd-radeon-rx-5500-xt-8gb-gddr6-pci-express-4-0-graphics-card-black-gray/6397797.p?skuId=6397797",
-        "description": "Improve your gaming performance with this Radeon RX 5500 series graphics card. Specially engineered RDNA architecture accelerates game fidelity by reducing input lag, tears and stutters during play. ",
-        "price": "204.99",
+        "name": "AMD Radeon RX 6600 XT",
+        "web": "https://www.bestbuy.com/site/gigabyte-amd-radeon-rx-6600-xt-gaming-oc-pro-8gb-gddr6-pci-express-4-0-gaming-graphics-card/6475148.p?skuId=6475148",
+        "description": "GIGABYTE AMD Radeon RX 6600 XT GAMING OC PRO 8G graphics card delivers ultra-high frame rates and serious 4K gameplay. Get the ultimate gaming experience with powerful new compute units, amazing AMD Infinity Cache, and up to 8GB of dedicated GDDR6 memory. And, when paired with an AMD Ryzen Series desktop processor, AMD Smart Access Memory technology offers new levels of gaming performance. ",
+        "price": "479.99",
         "availability": "sold out",
-        "rating": "4.4"
+        "rating": "4.7"
        
   
         
       },
       {
         "id": 3,
-        "name": "AMD Radeon RX 5500 XT",
-        "web": "https://www.bestbuy.com/site/msi-amd-radeon-rx-5500-xt-8gb-gddr6-pci-express-4-0-graphics-card-black-gray/6397797.p?skuId=6397797",
-        "description": "Improve your gaming performance with this Radeon RX 5500 series graphics card. Specially engineered RDNA architecture accelerates game fidelity by reducing input lag, tears and stutters during play. ",
-        "price": "204.99",
+        "name": "AMD Radeon RX 6700 XT",
+        "web": "https://www.bestbuy.com/site/xfx-speedster-qick319-amd-radeon-rx-6700-xt-12gb-gddr6-pci-express-4-0-gaming-graphics-card-black/6460664.p?skuId=6460664",
+        "description": "Introducing the AMD Radeon™ RX 6000 Series graphics cards, featuring the breakthrough AMD RDNA™ 2 architecture, engineered to deliver powerhouse performance for all gamers. The AMD Radeon™ RX 6700 Series graphics cards power a new generation of competitive and 4K gaming with vivid visuals, and elevated experiences in every game and every frame.",
+        "price": "629.99",
         "availability": "sold out",
         "rating": "4.4"
        
