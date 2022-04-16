@@ -1,0 +1,90 @@
+{
+    "graphic": [
+      {
+        "id": 0,
+        "name": "AMD Radeon RX 5500 XT",
+        "web": "https://www.bestbuy.com/site/msi-amd-radeon-rx-5500-xt-8gb-gddr6-pci-express-4-0-graphics-card-black-gray/6397797.p?skuId=6397797",
+        "description": "Improve your gaming performance with this Radeon RX 5500 series graphics card. Specially engineered RDNA architecture accelerates game fidelity by reducing input lag, tears and stutters during play. ",
+        "price": "204.99",
+        "availability": "sold out",
+        "rating": "4.4"
+       
+  
+        
+      },
+      {
+        "id": 1,
+        "name": "AMD Radeon RX 5700 XT",
+        "web": "https://www.bestbuy.com/site/xfx-amd-radeon-rx-5700-xt-raw-ii-8gb-gddr6-pci-express-4-0-graphics-card-with-zero-db-black/6375963.p?skuId=6375963",
+        "description": "Customize your gaming computer with this AMD Radeon RX 5700 XT graphics card. ",
+        "price": "599.99",
+        "availability": "sold out",
+        "rating": "4.2"
+        
+       
+  
+        
+      },
+      {
+        "id": 2,
+        "name": "AMD Radeon RX 5500 XT",
+        "web": "https://www.bestbuy.com/site/msi-amd-radeon-rx-5500-xt-8gb-gddr6-pci-express-4-0-graphics-card-black-gray/6397797.p?skuId=6397797",
+        "description": "Improve your gaming performance with this Radeon RX 5500 series graphics card. Specially engineered RDNA architecture accelerates game fidelity by reducing input lag, tears and stutters during play. ",
+        "price": "204.99",
+        "availability": "sold out",
+        "rating": "4.4"
+       
+  
+        
+      },
+      {
+        "id": 3,
+        "name": "AMD Radeon RX 5500 XT",
+        "web": "https://www.bestbuy.com/site/msi-amd-radeon-rx-5500-xt-8gb-gddr6-pci-express-4-0-graphics-card-black-gray/6397797.p?skuId=6397797",
+        "description": "Improve your gaming performance with this Radeon RX 5500 series graphics card. Specially engineered RDNA architecture accelerates game fidelity by reducing input lag, tears and stutters during play. ",
+        "price": "204.99",
+        "availability": "sold out",
+        "rating": "4.4"
+       
+  
+        
+      },
+      {
+        "id": 4,
+        "name": "AMD Radeon RX 5500 XT",
+        "web": "https://www.bestbuy.com/site/msi-amd-radeon-rx-5500-xt-8gb-gddr6-pci-express-4-0-graphics-card-black-gray/6397797.p?skuId=6397797",
+        "description": "Improve your gaming performance with this Radeon RX 5500 series graphics card. Specially engineered RDNA architecture accelerates game fidelity by reducing input lag, tears and stutters during play. ",
+        "price": "204.99",
+        "availability": "sold out",
+        "rating": "4.4"
+       
+  
+        
+      },
+      {
+        "id": 5,
+        "name": "AMD Radeon RX 5500 XT",
+        "web": "https://www.bestbuy.com/site/msi-amd-radeon-rx-5500-xt-8gb-gddr6-pci-express-4-0-graphics-card-black-gray/6397797.p?skuId=6397797",
+        "description": "Improve your gaming performance with this Radeon RX 5500 series graphics card. Specially engineered RDNA architecture accelerates game fidelity by reducing input lag, tears and stutters during play. ",
+        "price": "204.99",
+        "availability": "sold out",
+        "rating": "4.4"
+       
+  
+        
+      },
+      {
+        "id": 6,
+        "name": "AMD Radeon RX 5500 XT",
+        "web": "https://www.bestbuy.com/site/msi-amd-radeon-rx-5500-xt-8gb-gddr6-pci-express-4-0-graphics-card-black-gray/6397797.p?skuId=6397797",
+        "description": "Improve your gaming performance with this Radeon RX 5500 series graphics card. Specially engineered RDNA architecture accelerates game fidelity by reducing input lag, tears and stutters during play. ",
+        "price": "204.99",
+        "availability": "sold out",
+        "rating": "4.4"
+       
+  
+        
+      }
+      
+    ]
+  }
