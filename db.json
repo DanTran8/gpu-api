@@ -1,25 +1,19 @@
 {
-    "graphic": [
+    "product_card": [
       {
         "id": 0,
-        "name": "AMD Radeon RX 5500 XT",
-        "web": "https://www.bestbuy.com/site/msi-amd-radeon-rx-5500-xt-8gb-gddr6-pci-express-4-0-graphics-card-black-gray/6397797.p?skuId=6397797",
-        "description": "Improve your gaming performance with this Radeon RX 5500 series graphics card. Specially engineered RDNA architecture accelerates game fidelity by reducing input lag, tears and stutters during play. ",
-        "price": "204.99",
-        "availability": "sold out",
-        "rating": "4.4"
+        "product_name": "XFX - Speedster SWFT309 AMD Radeon RX 6700 XT 12GB GDDR6 PCI Express 4.0 Gaming Graphics Card - Black",
+        "price": 529.99,
+        "currency": "$"
        
   
         
       },
       {
         "id": 1,
-        "name": "AMD Radeon RX 5700 XT",
-        "web": "https://www.bestbuy.com/site/xfx-amd-radeon-rx-5700-xt-raw-ii-8gb-gddr6-pci-express-4-0-graphics-card-with-zero-db-black/6375963.p?skuId=6375963",
-        "description": "Customize your gaming computer with this AMD Radeon RX 5700 XT graphics card. ",
-        "price": "599.99",
-        "availability": "sold out",
-        "rating": "4.2"
+        "product_name": "GIGABYTE - AMD Radeon RX 6600 EAGLE 8GB GDDR6 PCI Express 4.0 Gaming Graphics Card - Black",
+        "price": 339.99,
+        "currency": "$"
         
        
   
@@ -27,48 +21,36 @@
       },
       {
         "id": 2,
-        "name": "AMD Radeon RX 6600 XT",
-        "web": "https://www.bestbuy.com/site/gigabyte-amd-radeon-rx-6600-xt-gaming-oc-pro-8gb-gddr6-pci-express-4-0-gaming-graphics-card/6475148.p?skuId=6475148",
-        "description": "GIGABYTE AMD Radeon RX 6600 XT GAMING OC PRO 8G graphics card delivers ultra-high frame rates and serious 4K gameplay. Get the ultimate gaming experience with powerful new compute units, amazing AMD Infinity Cache, and up to 8GB of dedicated GDDR6 memory. And, when paired with an AMD Ryzen Series desktop processor, AMD Smart Access Memory technology offers new levels of gaming performance. ",
-        "price": "479.99",
-        "availability": "sold out",
-        "rating": "4.7"
+        "product_name": "XFX - SPEEDSTER SWFT210 AMD Radeon RX 6600 XT 8GB GDDR6 PCI Express 4.0 Gaming Graphics Card - Black",
+        "price": 399.99,
+        "currency": "$"
        
   
         
       },
       {
         "id": 3,
-        "name": "AMD Radeon RX 6700 XT",
-        "web": "https://www.bestbuy.com/site/xfx-speedster-qick319-amd-radeon-rx-6700-xt-12gb-gddr6-pci-express-4-0-gaming-graphics-card-black/6460664.p?skuId=6460664",
-        "description": "Introducing the AMD Radeon™ RX 6000 Series graphics cards, featuring the breakthrough AMD RDNA™ 2 architecture, engineered to deliver powerhouse performance for all gamers. The AMD Radeon™ RX 6700 Series graphics cards power a new generation of competitive and 4K gaming with vivid visuals, and elevated experiences in every game and every frame.",
-        "price": "629.99",
-        "availability": "sold out",
-        "rating": "4.4"
+        "product_name": "MSI - AMD Radeon RX 6600 XT MECH 2X 8G OC GDDR6 PCI Express 4.0 Gaming Graphics Card - Black",
+        "price": 519.00,
+        "currency": "$"
        
   
         
       },
       {
         "id": 4,
-        "name": "AMD Radeon RX 6800 XT",
-        "web": "https://www.bestbuy.com/site/xfx-speedster-merc319-amd-radeon-rx-6800-xt-core-16gb-gddr6-pci-express-4-0-gaming-graphics-card-black/6453268.p?skuId=6453268",
-        "description": "The AMD Radeon™ RX 6000 Series graphics cards power a new generation of competitive and 4K gaming with vivid visuals, and elevated experiences in every game and every frame. ",
-        "price": "1049.99",
-        "availability": "sold out",
-        "rating": "4.1"
+        "product_name": "XFX - SPEEDSTER SWFT105 RADEON RX 6400 4GB GDDR6 PCI Express 4.0 Gaming Graphics Card - Black",
+        "price": 159.99,
+        "currency": "$"
        
   
         
       },
       {
         "id": 5,
-        "name": "AMD Radeon RX 6800",
-        "web": "https://www.bestbuy.com/site/msi-amd-radeon-rx-6800-gaming-x-trio-16g-16gb-gddr6-pci-express-4-0-graphics-card/6447182.p?skuId=6447182",
-        "description": "The AMD Radeon™ RX 6800 graphics card, powered by AMD RDNA™ 2 architecture, featuring 60 powerful enhanced Compute Units, 128 MB of all new AMD Infinity Cache and up to 16GB of dedicated GDDR6 memory, is engineered to deliver ultra-high frame rates and serious 4K resolution gaming. ",
-        "price": "769.99",
-        "availability": "sold out",
-        "rating": "3.8"
+        "product_name": "MSI - AMD Radeon RX 6500 XT Mech 2X 4G OC - 4GB GDDR6 - PCI Express 4.0 - Graphics Card",
+        "price": 249.00,
+        "currency": "$"
        
   
         
